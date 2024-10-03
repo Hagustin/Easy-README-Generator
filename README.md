@@ -16,10 +16,9 @@ The Professional README Generator is a command-line application that allows deve
 1.  Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/professional-readme-generator.git
-
 2. cd professional-readme-generator
-
 3. npm install
+
 
 ## Usage
 node index.js
